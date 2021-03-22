@@ -1,1 +1,2 @@
-123213头发违法不是的VB
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
